@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #71816D;
+    background-color: #6BA292;
     grid-template: 50px 1fr auto / 75% 1fr auto;
 }
 
@@ -31,7 +31,7 @@ h2 {
 
 h3 {
     text-align: center;
-    background-color: #71816D;
+    background-color: #6BA292;
     color: #F1E0C5;
 }
 
@@ -66,6 +66,6 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background-color: #71816D;
+    background-color: #6BA292;
     color: #F1E0C5;
 }
