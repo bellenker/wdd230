@@ -31,7 +31,7 @@ main {
 
 h2 {
     color: navy;
-    grid-column: 1/3;
+    grid-column: span 2;
 }
 
 article p {
@@ -42,6 +42,7 @@ article p {
     color: #eee;
     background-color: #702963;
     padding-left: 10px;
+    grid-column: span 2;
 }
 
 footer {
